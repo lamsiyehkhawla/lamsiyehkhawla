@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Khawla Lamsiyeh!
 
-🚀 L2/L3 Support engineer & Monitoring | Hands-on with Java and Big Data Tools 
+🚀 L2/L3 Support engineer & Monitoring | Hands-on with Java and Big Data Tools
+
 📍 Based in Rabat | 💬 I speak Arabic, French, English, and a bit of Spanish
 
 ---
