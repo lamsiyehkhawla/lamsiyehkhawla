@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Khawla Lamsiyeh!
 
-🚀 IT Support Engineer evolving into a Backend & Big Data Developer  
+🚀 L2/L3 Support engineer & Monitoring | Hands-on with Java and Big Data Tools 
 📍 Based in Rabat | 💬 I speak Arabic, French, English, and a bit of Spanish
 
 ---
